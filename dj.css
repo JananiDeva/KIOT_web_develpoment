@@ -1,0 +1,49 @@
+h1{
+     text-shadow: 5px 5px 5px violet;
+     color: wheat;
+}
+.one{
+    width: 400px;
+    height: 400px;
+    background-color: lightcoral;
+    border-radius: 17%;
+}
+ a:visited{ 
+    color: red;
+}
+ a:hover{ 
+    color: green;
+}
+ a:link{ 
+    color: black;
+}
+a:active{ 
+    color: orange;
+}
+ a{ 
+    text-decoration: none;
+    text-transform: uppercase;
+}
+img:hover{
+    width: 700px;
+    height: 700px;
+    border-radius: 20%;
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/detailed-jungle-background_23-2148953379.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1721088000&semt=ais_user);
+}
+.btn{
+    background-color: brown;
+    border: none;
+    color: aliceblue;
+    padding: 10%;
+    text-decoration: none;
+    border-radius: 30px;
+}
+.btn:hover{
+    background-color: yellow;
+    color: red;
+}
+body{
+    color: black;
+}
